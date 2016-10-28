@@ -1,0 +1,65 @@
+ul {
+    list-style-type: none;
+}
+a {
+
+}
+
+#navbar {
+
+}
+#navbar ul{
+
+}
+#navbar ul li{
+    cursor: pointer;
+}
+
+.top-box {
+    /*background: #ccc;*/
+}
+.container-fluid {
+    padding-left: 60px;
+}
+
+.main-title {
+    margin-left: 20px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #aaa;
+}
+
+.main-title  a{
+    color: #aaa;
+    text-decoration: none;
+}
+
+.secondary-title {
+    font-size: 14px;
+}
+
+.secondary-title li {
+    margin-top: 10px;
+}
+
+.secondary-title li a{
+    color: black;
+    text-decoration: none;
+}
+
+.secondary-title li a:hover{
+    cursor: pointer;
+    color: #cccccc;
+}
+
+
+.footer-container {
+    text-align: right;
+}
+
+.footer-container ul {
+    float: right;
+}
+.footer-container ul li {
+    float: left;
+}
